@@ -40,7 +40,7 @@ Each section includes:
 
 ## ✍️ Author
 
-Maintained with ❤️ by **[Suraj](https://github.com/YOUR_USERNAME)**  
+Maintained with ❤️ by **[Suraj](https://github.com/Surajbodke)**  
 📖 B.E. Computer Engineering | Pune, India
 
 ---
