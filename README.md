@@ -38,6 +38,12 @@ Each section includes:
 
 ---
 
+## 🛡️ License
+
+Licensed under the [MIT License](./LICENSE).
+
+---
+
 ## ✍️ Author
 
 Maintained with ❤️ by **[Suraj](https://github.com/Surajbodke)**  
